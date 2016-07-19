@@ -1,0 +1,25 @@
+img { 
+  display: block;
+  margin-left:auto;
+  margin-right: auto;
+  position: relative;
+  top: 150px;
+}
+.first  {
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
+  margin: 0 auto;
+  position: relative;
+  top: 250px;
+  left: 570px;
+}
+li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+header {
+  text-decoration: none;
+}
