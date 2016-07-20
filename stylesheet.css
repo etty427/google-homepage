@@ -1,25 +1,41 @@
 img { 
-    display: block;
-    margin-left:auto;
-    margin-right: auto;
-    position: relative;
-    top: 150px;
+	display: block;
+	margin-left: 473px;
+	position: absolute;
+	top: 150px;
 }
 .first {
-		height: 30px;
-	  width: 100px;
-	  background-color: #F2F4F4;
-	  position: initial;
-	  display: block;
-	  margin-top: 128px;
-	  margin-left: 253px;
+  color: #F2F4F4;
+  position: absolute;
+  display: block;
+  margin-top: 256px;
+  margin-left: 544px;
+  font-size: 24px;
+  background-color: lightgray;
+}
+.second {
+	
 }
 li {
     list-style-type: none;
     margin: 0;
     padding: 0;
+		display:inline-block;
 }
 a {
 	  text-decoration:none;
 	  color:#707B7C;
+}
+form {
+		margin-left: 460px;
+	  margin-top: 200px;
+	  position: absolute;
+	  width: 345px;
+}
+#icon{
+background-image:url(http://1.bp.blogspot.com/-lINg3E20_4Y/VebwdAy_MaI/AAAAAAAAFJU/8Jg2H-3-_cc/s1600/Microphone.png); 
+background-repeat: no-repeat; 
+background-position: right;
+background-size: 20px 20px;
+border:1px solid blue;
 }
