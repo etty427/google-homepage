@@ -1,0 +1,25 @@
+img { 
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    position: relative;
+    top: 150px;
+}
+.first {
+		height: 30px;
+	  width: 100px;
+	  background-color: #F2F4F4;
+	  position: initial;
+	  display: block;
+	  margin-top: 128px;
+	  margin-left: 253px;
+}
+li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+a {
+	  text-decoration:none;
+	  color:#707B7C;
+}
