@@ -1,20 +1,28 @@
 img { 
 	display: block;
-	margin-left: 473px;
+	left: 473px;
 	position: absolute;
 	top: 150px;
 }
 .first {
-  color: #F2F4F4;
-  position: absolute;
-  display: block;
-  margin-top: 256px;
-  margin-left: 544px;
-  font-size: 24px;
-  background-color: lightgray;
+    color: #F2F4F4;
+    position: absolute;
+    display: block;
+    top: 317px;
+    left: 510px;
+    font-size: 16px;
+    background-color: #F1F1F1;
 }
-.second {
-	
+#button {
+  position: absolute;
+  text-align: center;
+  height: 35px;
+  width: 78px;
+  border-color: #6495ED;
+  background-color: #4463CC;
+  right: 10px;
+  padding-top: 11px;
+  top: 23px;
 }
 li {
     list-style-type: none;
@@ -27,15 +35,52 @@ a {
 	  color:#707B7C;
 }
 form {
-		margin-left: 460px;
-	  margin-top: 200px;
-	  position: absolute;
-	  width: 345px;
+  position:absolute;
+  left: 580px;
+	top:260px;
+  width: 500px;
+  height: 33px;
 }
 #icon{
-background-image:url(http://1.bp.blogspot.com/-lINg3E20_4Y/VebwdAy_MaI/AAAAAAAAFJU/8Jg2H-3-_cc/s1600/Microphone.png); 
-background-repeat: no-repeat; 
-background-position: right;
-background-size: 20px 20px;
-border:1px solid blue;
+  background-image: url(http://1.bp.blogspot.com/-lINg3E20_4Y/VebwdAy_MaI/AAAAAAAAFJU/8Jg2H-3-_cc/s1600/Microphone.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 20px 20px;
+  border: .5px solid blue;
+  width: 432px;
+  position: absolute;
+  left: -172px;
+  height: 28px;
+}
+span {
+	color:white;
+	font-family: Verdana;
+}
+#images {
+	position: absolute;
+	    right:191px;
+	    top: 33px;
+}
+.second {
+  color: #F2F4F4;
+  position: absolute;
+  display: block;
+  top: 317px;
+  left: 627px;
+  font-size: 16px;
+  background-color: #F1F1F1;
+}
+#mail {
+    position: absolute;
+    right: 131px;
+    top: 33px;
+}
+.app {
+  background-image: url(https://raw.githubusercontent.com/n8sb/odin-project/master/google-homepage/style/../images/sprite.png);
+  background-position: -69px -854px;
+  position: absolute;
+  right: 96px;
+  width: 30px;
+  height: 30px;
+  top: 12px;
 }
