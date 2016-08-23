@@ -1,8 +1,10 @@
 img { 
-	display: block;
-	left: 473px;
-	position: absolute;
-	top: 150px;
+    display: block;
+    position: absolute;
+    top: 83px;
+    height: 202px;
+    width: 600px;
+    left: 329px;
 }
 .first {
     color: #F2F4F4;
@@ -84,3 +86,24 @@ span {
   height: 30px;
   top: 12px;
 }
+nav {
+  border-bottom: 1px solid #F1F1F1;
+  background-color: #F1F1F1;
+  background-size: -88px;
+  position: absolute;
+  bottom: 0px;
+  left: 1px;
+  width: 1280px;
+}
+.link6 {
+  position: absolute;
+  right: 30px;
+} 
+.link5 {
+  position: absolute;
+  right: 100px;
+} 
+.link4 {
+  position: absolute;
+  right: 150px;
+} 
