@@ -1,10 +1,17 @@
 img { 
+<<<<<<< HEAD
     display: block;
     position: absolute;
     top: 83px;
     height: 202px;
     width: 600px;
     left: 329px;
+=======
+	display: block;
+	left: 473px;
+	position: absolute;
+	top: 150px;
+>>>>>>> 56b318a740fdce21f2704ba9ef6210a7c27a1675
 }
 .first {
     color: #F2F4F4;
@@ -62,6 +69,7 @@ span {
 	position: absolute;
 	    right:191px;
 	    top: 33px;
+<<<<<<< HEAD
 }
 .second {
   color: #F2F4F4;
@@ -95,6 +103,41 @@ nav {
   left: 1px;
   width: 1280px;
 }
+=======
+}
+.second {
+  color: #F2F4F4;
+  position: absolute;
+  display: block;
+  top: 317px;
+  left: 627px;
+  font-size: 16px;
+  background-color: #F1F1F1;
+}
+#mail {
+    position: absolute;
+    right: 131px;
+    top: 33px;
+}
+.app {
+  background-image: url(https://raw.githubusercontent.com/n8sb/odin-project/master/google-homepage/style/../images/sprite.png);
+  background-position: -69px -854px;
+  position: absolute;
+  right: 96px;
+  width: 30px;
+  height: 30px;
+  top: 12px;
+}
+nav {
+  border-bottom: 1px solid #F1F1F1;
+  background-color: #F1F1F1;
+  background-size: -88px;
+  position: absolute;
+  bottom: 0px;
+  left: 1px;
+  width: 1280px;
+}
+>>>>>>> 56b318a740fdce21f2704ba9ef6210a7c27a1675
 .link6 {
   position: absolute;
   right: 30px;
@@ -106,4 +149,8 @@ nav {
 .link4 {
   position: absolute;
   right: 150px;
+<<<<<<< HEAD
 } 
+=======
+} 
+>>>>>>> 56b318a740fdce21f2704ba9ef6210a7c27a1675
