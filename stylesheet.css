@@ -1,9 +1,11 @@
 img { 
-    position: absolute;
-    top: 383px;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    top: 250px;
     height: 92px;
     width: 272px;
-    left: 757px;
 }
 .first {
     color: #F2F4F4;
