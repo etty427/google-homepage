@@ -1,17 +1,30 @@
 img { 
+<<<<<<< HEAD
+    position: relative;
+    top: 383px;
+    height: 92px;
+    width: 272px;
+    left: 757px;
+=======
     display: block;
     position: absolute;
     top: 83px;
     height: 202px;
     width: 600px;
     left: 329px;
+>>>>>>> 341628ac4633f91be5c3ba3a8e01ffdc95ef7f3e
 }
 .first {
     color: #F2F4F4;
     position: absolute;
     display: block;
+<<<<<<< HEAD
+    top: 547px;
+    left: 784px;
+=======
     top: 317px;
     left: 510px;
+>>>>>>> 341628ac4633f91be5c3ba3a8e01ffdc95ef7f3e
     font-size: 16px;
     background-color: #F1F1F1;
 }
@@ -44,6 +57,18 @@ form {
   height: 33px;
 }
 #icon{
+<<<<<<< HEAD
+    background-image: url(http://1.bp.blogspot.com/-lINg3E20_4Y/VebwdAy_MaI/AAAAAAAAFJU/8Jg2H-3-_cc/s1600/Microphone.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 20px 20px;
+    border: .5px solid lightgrey;
+    width: 432px;
+    position: relative;
+    left: 102px;
+    height: 30px;
+    top: 226px;
+=======
   background-image: url(http://1.bp.blogspot.com/-lINg3E20_4Y/VebwdAy_MaI/AAAAAAAAFJU/8Jg2H-3-_cc/s1600/Microphone.png);
   background-repeat: no-repeat;
   background-position: right;
@@ -53,6 +78,7 @@ form {
   position: absolute;
   left: -172px;
   height: 28px;
+>>>>>>> 341628ac4633f91be5c3ba3a8e01ffdc95ef7f3e
 }
 span {
 	color:white;
@@ -64,6 +90,15 @@ span {
 	    top: 33px;
 }
 .second {
+<<<<<<< HEAD
+    color: #F2F4F4;
+    position: absolute;
+    display: block;
+    top: 547px;
+    left: 930px;
+    font-size: 16px;
+    background-color: #F1F1F1;
+=======
   color: #F2F4F4;
   position: absolute;
   display: block;
@@ -71,6 +106,7 @@ span {
   left: 627px;
   font-size: 16px;
   background-color: #F1F1F1;
+>>>>>>> 341628ac4633f91be5c3ba3a8e01ffdc95ef7f3e
 }
 #mail {
     position: absolute;
@@ -87,6 +123,24 @@ span {
   top: 12px;
 }
 nav {
+<<<<<<< HEAD
+    border-bottom: 1px solid #F1F1F1;
+    background-color: #F1F1F1;
+    background-size: -88px;
+    position: absolute;
+    bottom: 0px;
+    left: 1px;
+    width: 100%;
+}
+.right {
+  float: right;
+  margin-right:26px; 
+} 
+.left {
+float: left;
+} 
+
+=======
   border-bottom: 1px solid #F1F1F1;
   background-color: #F1F1F1;
   background-size: -88px;
@@ -107,3 +161,4 @@ nav {
   position: absolute;
   right: 150px;
 } 
+>>>>>>> 341628ac4633f91be5c3ba3a8e01ffdc95ef7f3e
