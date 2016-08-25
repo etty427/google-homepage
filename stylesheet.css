@@ -1,5 +1,5 @@
 img { 
-    position: relative;
+    position: absolute;
     top: 383px;
     height: 92px;
     width: 272px;
@@ -9,10 +9,14 @@ img {
     color: #F2F4F4;
     position: absolute;
     display: block;
-    top: 547px;
-    left: 784px;
+    top: 538px;
+    left: 748px;
     font-size: 16px;
     background-color: #F1F1F1;
+        height: 31px;
+    padding-top: 11px;
+    padding-left: 17px;
+    width: 148px;
 }
 #button {
   position: absolute;
@@ -64,14 +68,18 @@ span {
 	    top: 33px;
 }
 .second {
-    color: #F2F4F4;
+  color: #F2F4F4;
     position: absolute;
     display: block;
-    top: 547px;
+    top: 538px;
     left: 930px;
-    font-size: 16px;
+font-size: 16px;
     background-color: #F1F1F1;
-}
+    height: 31px;
+    padding-top: 11px;
+    width: 148px;
+    padding-left: 17px;
+}    
 #mail {
     position: absolute;
     right: 131px;
